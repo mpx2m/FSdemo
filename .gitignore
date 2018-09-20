@@ -3,6 +3,5 @@
 
 # But not these files...
 !.gitignore
-!dist/
-!dist/*
+!/dist/
 # etc...
