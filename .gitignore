@@ -3,8 +3,8 @@
 
 # But not these files...
 !.gitignore
-!dist/*
-!dist/assets/*
-!dist/assets/font/*
-!dist/assets/img/*
+!/dist/*
+!/dist/assets/*
+!/dist/assets/font/*
+!/dist/assets/img/*
 # etc...
